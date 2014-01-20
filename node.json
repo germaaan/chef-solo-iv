@@ -1,0 +1,21 @@
+{
+	"nginx": {
+		"version"	: "1.4.1",
+		"user"		: "www-data",
+		"port"		: "80"
+  },
+
+	"nano": {
+		"version"	: "2.2.6"
+	},
+
+	"iv": {
+		"name"		: "Infraestructura Virtual"
+	},
+
+	"run_list":	[
+		"recipe[nginx]",
+		"recipe[nano]",
+		"recipe[iv]"
+	]
+}
