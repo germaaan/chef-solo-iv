@@ -15,7 +15,7 @@
 
 	"run_list":	[
 		"recipe[nginx]",
-		"recipe[nano]",
+		"recipe[emacs]",
 		"recipe[iv]"
 	]
 }
