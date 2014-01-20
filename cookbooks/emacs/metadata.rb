@@ -1,6 +1,6 @@
 maintainer       "German Martinez Maldonado"
 maintainer_email "germaaan@gmail.com"
-description      "Instalar el editor nano."
+description      "Instalar el editor emacs."
 version          "1.0.0"
 
-recipe "nano", "Receta de instalación de nano."
+recipe "emacs", "Receta de instalación de emacs."

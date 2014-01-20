@@ -5,8 +5,8 @@
 		"port"		: "80"
   },
 
-	"nano": {
-		"version"	: "2.2.6"
+	"emacs": {
+		"version"	: "23.4.1"
 	},
 
 	"iv": {
