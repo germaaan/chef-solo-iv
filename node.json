@@ -10,7 +10,7 @@
 	},
 
 	"iv": {
-		"name"		: "Infraestructura Virtual"
+		"name"	: "Infraestructura Virtual"
 	},
 
 	"run_list":	[
