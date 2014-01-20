@@ -1,5 +1,5 @@
-directory '/germaaan/home/IV'
-file "germaaan/home/IV/README.md" do
+directory '/home/germaaan/IV'
+file "/home/germaaan/IV/README.md" do
   owner "germaaan"
   group "germaaan"
   mode 00764
